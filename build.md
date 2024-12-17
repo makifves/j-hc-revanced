@@ -1,7 +1,6 @@
 GooglePhotos: 7.11.0.705590205  
 Music: 7.31.51  
 Reddit-Extended: 2024.17.0  
-Spotify: 9.0.0.487  
 YouTube: 19.49.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
