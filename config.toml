@@ -1,4 +1,4 @@
-parallel-jobs = 1
+parallel-jobs = 4
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
@@ -29,9 +29,3 @@ enabled = true
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
-
-[Spotify-Lite]
-enabled = true
-build-mode = "apk"
-version = "latest"
-uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
